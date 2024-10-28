@@ -5,3 +5,7 @@ h1{
     color:blueviolet;
     text-align:center;
 }
+a{
+    color: color(srgb red rgb(255, 0, 0) blue);
+    text-align: center;
+}
