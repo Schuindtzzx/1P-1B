@@ -1,11 +1,26 @@
 body{
-    background-color: rgb(74, 236, 236);
+    background-color: rgb(228, 142, 231);
+    text-align: center;
+    margin: 0;
 }
-h1{
-    color:blueviolet;
-    text-align:center;
+.prti{
+    color:rgb(0, 0, 0);
+    margin: 50px;
+    padding: 30px;
+}
+main{
+    background-color: bisque;
+    padding: 20px;
 }
 a{
-    color: color(srgb red rgb(255, 0, 0) blue);
-    text-align: center;
+    color: rgb(153, 0, 255);
+    padding: 24px;
+}
+.cabecalho{
+    background-color: rgb(228, 142, 231);
+    margin: 0px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
