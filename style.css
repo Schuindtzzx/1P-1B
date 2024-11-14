@@ -1,23 +1,25 @@
 body{
-    background-color: rgb(228, 142, 231);
+    background-color: rgb(253, 226, 235);
     text-align: center;
     margin: 0;
 }
 .prti{
-    color:rgb(0, 0, 0);
+    color:rgb(65, 45, 45);
     margin: 50px;
     padding: 30px;
 }
 main{
-    background-color: bisque;
+    background-color: rgb(255, 168, 168);
     padding: 20px;
 }
 a{
-    color: rgb(153, 0, 255);
+    color: rgb(252, 141, 196);
     padding: 24px;
+    font-size: 24px;
+    text-decoration: none;
 }
 .cabecalho{
-    background-color: rgb(228, 142, 231);
+    background-color: rgb(255, 228, 228);
     margin: 0px;
     padding: 20px;
     display: flex;
